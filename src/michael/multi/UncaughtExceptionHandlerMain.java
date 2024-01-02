@@ -1,4 +1,4 @@
-package multi;
+package michael.multi;
 
 public class UncaughtExceptionHandlerMain {
     public static void main(String[] args) {

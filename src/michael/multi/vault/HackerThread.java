@@ -1,4 +1,4 @@
-package multi.vault;
+package michael.multi.vault;
 
 public abstract class HackerThread extends Thread{
     protected Vault vault;

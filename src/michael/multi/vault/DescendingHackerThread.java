@@ -1,4 +1,4 @@
-package multi.vault;
+package michael.multi.vault;
 
 public class DescendingHackerThread extends HackerThread{
     public DescendingHackerThread(Vault vault) {
