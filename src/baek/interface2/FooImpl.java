@@ -1,4 +1,4 @@
-package interface2;
+package baek.interface2;
 
 public class FooImpl implements Foo{
     String name;
