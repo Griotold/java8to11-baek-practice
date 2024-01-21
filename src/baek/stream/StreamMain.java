@@ -1,5 +1,7 @@
 package baek.stream;
 
+import baek.OnlineClass;
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
